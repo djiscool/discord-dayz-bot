@@ -17,4 +17,4 @@ COPY . .
 
 EXPOSE 33322
 
-CMD [ "node", "app.js" ]
+CMD [ "node", "index.js" ]
